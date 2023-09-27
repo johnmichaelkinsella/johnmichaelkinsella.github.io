@@ -1,7 +1,7 @@
 
 ## John Michael Kinsella
 [<img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" height="32.5">](https://www.linkedin.com/in/john-michael-kinsella/)
-[<img src="Logo 1.png" width="30">](https://johnmichaelkinsella.substack.com/)
+[<img src="Logo 1.png" width="22">](https://johnmichaelkinsella.substack.com/)
 [<img src="https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg" height="30">](https://www.instagram.com/johnm_kinsella/)
 <!-- Is there a better way to determine image sizing and center on Y axis? -->
 
