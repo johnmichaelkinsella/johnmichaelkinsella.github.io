@@ -1,3 +1,4 @@
+<!-- Is there a way in github to stop having to click Commit changes twice? -->
 
 ## John Michael Kinsella
 [<img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" height="32.5">](https://www.linkedin.com/in/john-michael-kinsella/)
